@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/23a13b45-f085-4e26-a0ab-8d8bd4d22c28/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/forumapi",
+    "appService.deploySubpath": ""
+}
